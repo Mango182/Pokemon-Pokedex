@@ -1,1 +1,2 @@
 # Pokemon-Pokedex
+Pokemon Pokedex is a Java project that simulates a Pokedex for a specified region. It allows users to access information about various Pokemon by their dex number or name. The Pokedex is loaded from a CSV file, and the program provides functionalities to query and display details about specific Pokemon. This project demonstrates basic Java programming concepts and file handling techniques
